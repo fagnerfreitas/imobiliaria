@@ -155,7 +155,6 @@ export default function Home({ imoveis }) {
 
 
 
-
   return{
     props:{
        imoveis: properties

@@ -1,4 +1,4 @@
-import { url } from 'inspector';
+
 import styles from './styles.module.scss';
 
 function CardBairros({ name, img }) {
